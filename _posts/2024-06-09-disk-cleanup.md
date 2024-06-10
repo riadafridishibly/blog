@@ -17,6 +17,9 @@ _WIP_
 - `npx npkill`
 - https://www.npmjs.com/package/npkill
 
+## Yarn Cache Clean
+
+- `yarn cache clean`
 
 ## Docker
 
